@@ -1,0 +1,16 @@
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column1{
+    float: left;
+  width: 70%;
+  padding-left: 2%;
+  padding-right: 7%;
+  }
+  .column2{
+    float: left;
+  width: 20%;
+  }

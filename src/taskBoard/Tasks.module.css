@@ -1,0 +1,21 @@
+.columnsContainer {
+    display: flex;
+    overflow-x: auto; /* Horizontal scrolling */
+  }
+  
+  .column {
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+  }
+  
+  .content {
+    height: 300px; /* Set the height as needed */
+    overflow-y: auto; /* Vertical scrolling */
+  }
+  .taskhead{
+    text-align: center;
+    font-weight: 500;
+  }

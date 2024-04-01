@@ -1,0 +1,17 @@
+.heading{
+    font-size: 2rem;
+    padding-left: 5%;
+    padding-top: 1rem;
+    display: flex;
+}
+.icon{
+    margin-left: 70%;
+}
+.mainContent{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2rem;
+    border: 0.2rem solid white;
+    padding: 1rem;
+    border-radius: 0.4rem;
+}

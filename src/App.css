@@ -1,7 +1,11 @@
 .App {
   text-align: center;
 }
-
+.App-main{
+  background: rgb(205, 173, 212);
+background: linear-gradient(122deg, rgba(241,157,234,1) 0%, rgba(219,219,255,1) 99%);
+padding-bottom: 1000px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
